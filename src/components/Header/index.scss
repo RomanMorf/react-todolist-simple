@@ -1,0 +1,16 @@
+.header {
+  padding: 20px;
+
+  background-color: rgb(167, 167, 167);
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+
+  &-title {
+    font-size: 25px;
+  }
+
+}
